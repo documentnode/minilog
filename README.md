@@ -7,3 +7,7 @@ The aim of creating this logger instead of using existing solutions is to avoid 
 It makes life easier when compiling Java into native shared library. Also the result shared library will be much smaller.
 
 Maintained by [Document Node](https://documentnode.io).
+
+## Build status
+
+[![Build Status](https://travis-ci.org/documentnode/minilog.svg?branch=main)](https://travis-ci.org/documentnode/minilog)
