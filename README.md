@@ -1,4 +1,4 @@
-# minilog
+﻿# minilog
 
 A miniature Java logging library without dependencies and reflection.
 
@@ -10,4 +10,6 @@ Maintained by [Document Node](https://documentnode.io).
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/documentnode/minilog.svg?branch=main)](https://travis-ci.org/documentnode/minilog)
+[![MiniLog Actions Status](https://github.com/documentnode/minilog/workflows/Java%20CI%20with%20Gradle/badge.svg)](https://github.com/documentnode/minilog/actions)
+
+[![Travis Build Status](https://travis-ci.org/documentnode/minilog.svg?branch=main)](https://travis-ci.org/documentnode/minilog)
